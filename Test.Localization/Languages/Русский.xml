@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Language xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<Button1>Кнопка1</Button1>
+	<Button2>Кнопка2</Button2>
+	<Image>ru\Ы.png</Image>
+	<Messages>
+		<Text1>Текст1</Text1>
+		<Text2>Текст2</Text2>
+	</Messages>
+</Language>

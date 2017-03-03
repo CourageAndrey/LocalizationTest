@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Wpf", "Test.Wpf\Test.Wpf.csproj", "{39D4014B-52CA-4B57-A2EA-29F199B68D03}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.Localization", "Test.Localization\Test.Localization.csproj", "{124DF887-C7D3-4239-BA2E-AE8677E1F950}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test.WinForms", "Test.WinForms\Test.WinForms.csproj", "{0FCF834B-D8DE-4523-9F6F-57BF4431889C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39D4014B-52CA-4B57-A2EA-29F199B68D03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39D4014B-52CA-4B57-A2EA-29F199B68D03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39D4014B-52CA-4B57-A2EA-29F199B68D03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39D4014B-52CA-4B57-A2EA-29F199B68D03}.Release|Any CPU.Build.0 = Release|Any CPU
+		{124DF887-C7D3-4239-BA2E-AE8677E1F950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{124DF887-C7D3-4239-BA2E-AE8677E1F950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{124DF887-C7D3-4239-BA2E-AE8677E1F950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{124DF887-C7D3-4239-BA2E-AE8677E1F950}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FCF834B-D8DE-4523-9F6F-57BF4431889C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FCF834B-D8DE-4523-9F6F-57BF4431889C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FCF834B-D8DE-4523-9F6F-57BF4431889C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FCF834B-D8DE-4523-9F6F-57BF4431889C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
